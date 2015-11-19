@@ -1,2 +1,2 @@
 # hello-world
-First repo
+I am a Computer Science student at Georgia Tech.
